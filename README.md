@@ -26,7 +26,7 @@ You can see the description of the implementation method in the following file:
 
 ## Results
 
-![App Screenshot](https://github.com/kiananvari/CIFAR10-Denoising-Using-UNET/blob/main/Results/1.png)
-
 ![App Screenshot](https://github.com/kiananvari/CIFAR10-Denoising-Using-UNET/blob/main/Results/2.png)
+
+![App Screenshot](https://github.com/kiananvari/CIFAR10-Denoising-Using-UNET/blob/main/Results/1.png)
 
