@@ -21,10 +21,12 @@ To improve the PSNR of the denoised images, a GAN architecture was used. The gen
 ## Documentation
 
 You can see the description of the implementation method in the following file:
-[Click Me](https://linktodocumentation)
+[Click Me](https://github.com/kiananvari/CIFAR10-Denoising-Using-UNET/raw/main/Documentation.pdf)
 
 
 ## Results
 
-[Documentation](https://linktodocumentation)
+![App Screenshot](https://github.com/kiananvari/CIFAR10-Denoising-Using-UNET/blob/main/Results/1.png)
+
+![App Screenshot](https://github.com/kiananvari/CIFAR10-Denoising-Using-UNET/blob/main/Results/2.png)
 
